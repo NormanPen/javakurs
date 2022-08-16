@@ -11,6 +11,7 @@
 // Präfix-/Postfix-Inkrement und -Dekrement
 // Typumwandlung
 // Sting-Konkatenation
+// Bit Operatoren
 
 
 public class expressionsOperators {
@@ -72,5 +73,22 @@ public class expressionsOperators {
         System.out.println(2 + "2" ); // sobald String vorhanden wird Zahl zu Text 2 + "2" = 22
 
 
+        int b1 = 0b10101010;
+        int b2 = 0b11010101;
+
+        System.out.println(Integer.toBinaryString(b1));
+        System.out.println(Integer.toBinaryString(b2));
+
+        System.out.println(Integer.toBinaryString(~b1)); // Umkehr
+        System.out.println(Integer.toBinaryString(~b2));
+
+        System.out.println(Integer.toBinaryString(b1 & b2));
+        System.out.println(Integer.toBinaryString(b1 | b2));
+        System.out.println(Integer.toBinaryString(b1 ^b2));
+
+        System.out.println(Integer.toBinaryString( 0b10 >> 1));
+        System.out.println(Integer.toBinaryString( 0b10 >> 2));
+        System.out.println(Integer.toBinaryString( 0b10 << 1));
+        System.out.println(Integer.toBinaryString( 0b10 << 2));
     }
 }
