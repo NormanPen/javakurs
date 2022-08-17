@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ead9be2a-a594-4f49-ad29-fd1195db2b77" name="Changes" comment="Bedingungsoperatoren">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwitchCaseStatement.java" afterDir="false" />
+    <list default="true" id="ead9be2a-a594-4f49-ad29-fd1195db2b77" name="Changes" comment="Switch-Case-Anweisungen">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DoWhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SwitchCaseStatement">
+  <component name="RunManager" selected="Application.DoWhileLoop">
     <configuration name="ConditioningOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditioningOperator" />
       <module name="javakurs" />
@@ -52,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Consoleinputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Consoleinputs" />
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoop" />
       <module name="javakurs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoWhileLoop" />
         <item itemvalue="Application.SwitchCaseStatement" />
         <item itemvalue="Application.ConditioningOperator" />
         <item itemvalue="Application.IfElseStatement" />
         <item itemvalue="Application.ifStatements" />
-        <item itemvalue="Application.Consoleinputs" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660628247530</updated>
       <workItem from="1660628251314" duration="7094000" />
-      <workItem from="1660746434037" duration="4686000" />
+      <workItem from="1660746434037" duration="5467000" />
     </task>
     <task id="LOCAL-00001" summary="Variablen">
       <created>1660631080189</created>
@@ -164,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660753396355</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Switch-Case-Anweisungen">
+      <created>1660753938780</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660753938780</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +198,7 @@
     <MESSAGE value="Fallunterscheidungen" />
     <MESSAGE value="Fallunterscheidungen mit else if" />
     <MESSAGE value="Bedingungsoperatoren" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bedingungsoperatoren" />
+    <MESSAGE value="Switch-Case-Anweisungen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switch-Case-Anweisungen" />
   </component>
 </project>
