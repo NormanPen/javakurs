@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ead9be2a-a594-4f49-ad29-fd1195db2b77" name="Changes" comment="Switch-Case-Anweisungen">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DoWhileLoop.java" afterDir="false" />
+    <list default="true" id="ead9be2a-a594-4f49-ad29-fd1195db2b77" name="Changes" comment="Do While Loop">
+      <change afterPath="$PROJECT_DIR$/src/main/java/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DQPHHxLnwHkdJ4bwiBSQwCXCHF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +46,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DoWhileLoop">
+  <component name="RunManager" selected="Application.WhileLoop">
     <configuration name="ConditioningOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditioningOperator" />
       <module name="javakurs" />
@@ -73,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifStatements" />
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
       <module name="javakurs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.DoWhileLoop" />
         <item itemvalue="Application.SwitchCaseStatement" />
         <item itemvalue="Application.ConditioningOperator" />
         <item itemvalue="Application.IfElseStatement" />
-        <item itemvalue="Application.ifStatements" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660628247530</updated>
       <workItem from="1660628251314" duration="7094000" />
-      <workItem from="1660746434037" duration="5467000" />
+      <workItem from="1660746434037" duration="6351000" />
     </task>
     <task id="LOCAL-00001" summary="Variablen">
       <created>1660631080189</created>
@@ -171,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660753938780</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Do While Loop">
+      <created>1660754663674</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660754663674</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +208,7 @@
     <MESSAGE value="Fallunterscheidungen mit else if" />
     <MESSAGE value="Bedingungsoperatoren" />
     <MESSAGE value="Switch-Case-Anweisungen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch-Case-Anweisungen" />
+    <MESSAGE value="Do While Loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do While Loop" />
   </component>
 </project>
